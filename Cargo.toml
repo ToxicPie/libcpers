@@ -1,6 +1,7 @@
 [package]
 name = "libcpers"
 description = "Library for CP problemsetting"
+repository = "https://github.com/toxicpie/libcpers"
 license = "MIT"
 version = "0.1.0"
 edition = "2021"
